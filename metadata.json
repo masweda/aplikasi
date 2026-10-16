@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pendataan TPK",
+  "description": "Aplikasi Sistem Pendataan Tim Pendamping Keluarga (TPK) untuk Catin, Bufas, dan Ibu Hamil dengan dashboard statistik, rekapitulasi, ekspor Excel/CSV, dan integrasi Google Looker Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
